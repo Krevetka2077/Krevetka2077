@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#обо-мне">Обо мне</a> ·
-  <a href="#проекты">Проекты</a> ·
-  <a href="#навыки-и-инструменты">Навыки</a> ·
+  <a href="#user-content-обо-мне">Обо мне</a> ·
+  <a href="#user-content-проекты">Проекты</a> ·
+  <a href="#user-content-навыки-и-инструменты">Навыки</a> ·
   <a href="https://github.com/Krevetka2077?tab=repositories">Все репозитории</a>
 </p>
 
